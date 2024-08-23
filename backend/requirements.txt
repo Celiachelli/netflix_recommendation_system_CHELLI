@@ -1,0 +1,9 @@
+Flask
+Flask-PyMongo
+tensorflow
+pandas
+numpy
+Werkzeug
+scikit-learn
+flask_bcrypt
+flask_cors
